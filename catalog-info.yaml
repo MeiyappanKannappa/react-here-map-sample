@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-here-map-sample
+  annotations:
+    github.com/project-slug: MeiyappanKannappa/react-here-map-sample
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
